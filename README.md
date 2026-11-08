@@ -2,7 +2,7 @@
 
 This console task manager is a small Kotlin/JVM application for creating and managing a personal task list. It lets a user add tasks, view their status, mark tasks complete, and remove tasks. I built it to practice Kotlin syntax and object-oriented programming through a practical program, including data classes, collections, functions, and control flow.
 
-[Software Demo Video](YouTube)
+[Software Demo Video](https://youtu.be/x6DH_0peEBE)
 
 # Development Environment
 
